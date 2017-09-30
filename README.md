@@ -1,2 +1,2 @@
-# bulma-templates
-A gallery template using [http://bulma.io/](Bulma.io)
+# Bulma Templates
+A gallery template using [Bulma.io](http://bulma.io/) CSS Framework.
